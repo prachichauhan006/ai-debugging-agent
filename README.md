@@ -2,7 +2,7 @@
 
 An AI-powered agent that analyzes Python code and error tracebacks, identifies the root cause, and suggests a fix — built using LangChain, Groq (LLM inference), and FastAPI.
 
-> **Status:** 🚧 In active development. Core architecture and roadmap defined below; implementation in progress.
+> **Status:** In active development. Core architecture and roadmap defined below; implementation in progress.
 
 ---
 
