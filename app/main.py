@@ -18,3 +18,8 @@ def health():
 def debug(request: DebugRequest):
     result = debug_code(request.code, request.traceback)
     return {"result": result}
+
+@app.post("/debug")
+def debug(request: DebugRequest):
+    result = debug_code(request.code, request.traceback)
+    return result
