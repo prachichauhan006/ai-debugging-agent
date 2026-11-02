@@ -19,7 +19,7 @@ Debugging is one of the most time-consuming parts of software development. Devel
 
 ---
 
-## How It Works
+## How It Works  
 
 ```
 User Input (source code + traceback)
